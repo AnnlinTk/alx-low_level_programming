@@ -6,3 +6,5 @@
 5-string_toupper.c : Prototype: char *string_toupper(char *);
 6-cap_string.c : Prototype: char *cap_string(char *);
 7-leet.c : Write a function that encodes a string into 1337.
+100-rot13.c : Write a function that encodes a string using rot13.
+101-print_number.c : Prototype: void print_number(int n);
